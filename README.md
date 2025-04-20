@@ -1,6 +1,6 @@
 
 
-## 👋 Hello! I'm [Ahmed Hossam]
+## 👋 Hello! I'm Ahmed Hossam
 
 🎓 Final year Communications & Electronics Engineering student at Helwan University  
 🤖 Passionate about Artificial Intelligence & Machine Learning  
