@@ -1,75 +1,88 @@
-## 👋 Hi, I'm Ahmed Hossam
+<!-- ====== Banner Animation ====== -->
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="250px"/>
+</p>
 
-I’m an **AI-focused Communications & Electronics Engineer** who enjoys turning complex ideas into practical, working systems. My main interest lies in **building intelligent, agent-based systems** and applying AI to real-world problems, especially in **computer vision** and **generative AI**.
+<h1 align="center">Hi there 👋 I’m Ahmed Hossam</h1>
 
-🚀 My long-term goal is to become a highly effective and impactful AI engineer who builds tools that genuinely help people.
-
----
-
-## 🎓 Education
-**B.Sc. in Communications & Electronics Engineering**  
-Helwan University, Egypt
-
----
-
-## 🧠 What I Work On
-- **Artificial Intelligence & Machine Learning** (from fundamentals to deployment)
-- **Agentic AI systems** (multi-agent workflows, orchestration, reasoning)
-- **Computer Vision** (real-time systems, face analysis, emotion & drowsiness detection)
-- **Generative AI** (LLMs, diffusion models, prompt & system design)
-- **Local-first AI solutions** (efficient models, limited hardware constraints)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&center=true&vCenter=true&width=650&height=45&lines=AI+Engineer+%7C+Computer+Vision+%7C+Generative+AI;Building+Tomorrow's+Intelligent+Systems" alt="Typing SVG"/>
+</p>
 
 ---
 
-## 🏗️ Featured Project
-### **SlideCraft – AI-Powered Presentation Generator**
-An end-to-end **multi-agent system** that automatically generates structured PowerPoint presentations.
+## 🎯 About Me
 
-**Key highlights:**
-- Multi-agent orchestration using **LangGraph**
-- Local LLM inference with **Qwen** models
-- Image generation via **SDXL diffusion models**
-- JSON-driven slide planning and validation checkpoints
-- Interactive **Streamlit** interface
-
-This project was developed as my **NTI final graduation project** and focuses on reliability, modularity, and running fully offline.
-
----
-
-## 🧪 Other Notable Work
-- **Driver Identity Verification System** using face recognition
-- **Real-time drowsiness & yawning detection** with MediaPipe Face Mesh
-- **Speech Emotion Recognition** system in Python
-
----
-
-## 🧩 Leadership & Community
-- **Ex-GDSC (Google Developer Student Clubs) Lead** – Helwan University
-- **Beta Microsoft Learn Student Ambassador (MLSA)**
-- Active in mentoring, technical sessions, and AI knowledge sharing
+I’m a **Communications & Electronics Engineer** passionate about **agentic AI systems**, **computer vision**, and **generative AI**. I build real systems that blend research and engineering — optimized for reliability, performance, and practical use.
 
 ---
 
 ## 🛠️ Tech Stack
-**Languages:** Python (primary)  
-**AI/ML:** PyTorch, OpenCV, MediaPipe, LangGraph, LLMs  
-**Generative AI:** Diffusion Models (SDXL), Prompt & System Design  
-**Tools:** Conda, Git, Streamlit
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-%231478CC.svg?style=flat&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=flat&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLMs-%F0%9F%A7%A1-purple"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-%F0%9F%92%BB-blue"/>
+  <img src="https://img.shields.io/badge/Engineering-%E2%9A%99%EF%B8%8F-orange"/>
+</p>
 
 ---
 
-## 🌱 Currently Learning
-- Advanced **agentic workflows** and tool-using LLMs
-- **Model optimization** for local and edge devices
-- Deeper theoretical foundations of AI & ML
+## 💻 GitHub Stats
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AhmedHossam61&show_icons=true&theme=radical"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHossam61&layout=compact&theme=radical"/>
+</p>
 
 ---
 
-## 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/ahmed-hossam61/
-- 📧 Email: ahmedhoss.2023@gmail.com
+## 🏆 Featured Projects
+
+### 🚀 **SlideCraft**
+**AI-Powered Multi-Agent Presentation Generator**
+
+- Multi-agent orchestration using **LangGraph**
+- Local LLM inference with **Qwen**
+- Diffusion image generation via **SDXL**
+- JSON workflow checkpoints & planning
+- Interactive **Streamlit** UI
+
+*Developed as my NTI final graduation project.*
 
 ---
 
-> *I enjoy discussions about AI, anime, and even quantum computing — feel free to reach out or explore my repositories!*
+## 📌 Other Notable Work
+
+- 🧠 **Real-time Drowsiness & Yawning Detection** using MediaPipe Face Mesh  
+- 🪪 **Driver Identity Verification System** with face recognition  
+- 🎤 **Speech Emotion Recognition** in Python
+
+---
+
+## 📖 Currently Learning
+
+- 🧠 Advanced **agentic workflows**  
+- ⚙️ Model optimization for **local/edge deployments**  
+- 📚 Deepening foundations in **ML theory**
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/ahmed-hossam61">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ahmedhoss.2023@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+> 💬 I enjoy chatting about **AI research**, **agentic systems**, **computer vision**, and **generative models**. Let’s build something cool together! 👨‍💻✨
 
