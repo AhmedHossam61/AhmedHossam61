@@ -31,12 +31,16 @@ I’m a **Communications & Electronics Engineer** passionate about **agentic AI 
 
 ---
 
-## 💻 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AhmedHossam61&show_icons=true&theme=radical"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHossam61&layout=compact&theme=radical"/>
+  <!-- Overall stats -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AhmedHossam61&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="AhmedHossam61's GitHub Stats" />
+
+  <!-- Most used languages -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHossam61&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
+
 
 ---
 
